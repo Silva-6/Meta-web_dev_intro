@@ -1,11 +1,10 @@
 # Lab Instructions: Styling a page
 
-In this exercise you will you will practice applying CSS rules to HTML elements.<br><br>
+In this exercise you will practice applying CSS rules to HTML elements.<br><br>
 
 > ### **Tips: Before you Begin**
 > #### **To view your code and instructions side-by-side**, select the following in your VSCode toolbar:
 > - View -> Editor Layout -> Two Columns
-> - To view this file in Preview mode, right click on this README.md file and `Open Preview`
 > - Select your code file in the code tree, which will open it up in a new VSCode tab.
 > - Drag your assessment code files over to the second column. 
 > - Great work! You can now see instructions and code at the same time. 
@@ -42,16 +41,6 @@ Follow the Step by Step instructions below:
 
 <br>
 
-
-
-## Final Step: Let's submit your code!
-Nice work! To complete this assessment:
-- Save your file through File -> Save 
-- Select "Submit Assignment" in your Lab toolbar. 
-
-Your code will be autograded and return feedback shortly on the "Grades" tab.  
-You can also see your score in your Programming Assignment "My Submission" tab.
-<br> <br> 
 
 ### Tips
 
