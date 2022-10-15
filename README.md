@@ -12,7 +12,10 @@ In this exercise you will practice applying CSS rules to HTML elements.<br><br>
  <br><br> 
  
 <br>
-# [01 Styling a page](https://github.com/Silva-6/Meta-web_dev_intro/01-style_a_page) <br>
+# [01 Styling a page](https://github.com/Silva-6/Meta-web_dev_intro/tree/main/01-style_a_page) 
+
+<br>
+
 ## Task 1: Style an HTML page using CSS..
 
 Objectives
