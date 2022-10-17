@@ -2,15 +2,15 @@
 
 In this exercise, you will practice building a webpage using the Bootstrap Grid.<br><br>
 
-Goal
+### Goal
 - Create a two-column food menu for Little Lemon. 
 
-Objectives
+### Objectives
 - Set up the Bootstrap container.
 - Display the Little Lemon logo in the top center of the webpage using Bootstrap.
 - Display the food menu in two columns using Bootstrap Grid.
 
-Instructions:
+### Instructions:
 1. Open index.html
 2. Add a div element inside the body element. This div will be the Bootstrap container. 
 3. Add the class attribute to this element with the value container.
