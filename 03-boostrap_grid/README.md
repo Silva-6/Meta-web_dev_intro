@@ -3,7 +3,7 @@
 In this exercise, you will practice building a webpage using the Bootstrap Grid.<br><br>
 
 ### Goal
-- Create a two-column food menu for Little Lemon. 
+- Create a two-column food menu for Little Lemon.
 
 ### Objectives
 - Set up the Bootstrap container.
