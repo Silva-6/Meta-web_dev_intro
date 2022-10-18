@@ -38,9 +38,9 @@ Follow the Step by Step instructions below:
 
 8. Add a CSS rule for the HTML element with the id `copyright`. Set its top padding to `12` pixels and its font size to `0.75em`. 
 
-
 <br>
 
+## Nice work!
 
 ### Tips
 
