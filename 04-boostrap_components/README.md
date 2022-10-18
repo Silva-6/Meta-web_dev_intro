@@ -82,6 +82,8 @@ Step 22: Verify at the new badge is displayed on the Falafel header.
 
 Step 23: Verify that the Order Online button is displayed.
 
+## Nice work!
+
 ### Tips
 
 - Make sure to add your columns to row elements.
