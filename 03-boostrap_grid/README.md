@@ -236,6 +236,8 @@ In this exercise, you will practice building a webpage using the Bootstrap Grid.
 </body>
 ```
 
+## Nice work!
+
 ### Tips
 
 - Make sure to add your columns to row elements.
