@@ -46,21 +46,20 @@ In this exercise you will practice applying CSS rules to HTML elements.<br><br>
 * Use a different heading type for your name.
 * Remember the box model.<br><br>
 
-# [02 Create & Style a webpage](https://github.com/Silva-6/Meta-web_dev_intro/tree/main/02-create_style_a_webpage)
+# [03 Create & Style a webpage](https://github.com/Silva-6/Meta-web_dev_intro/tree/main/03-boostrap_grid)
 
 <br>
-In this exercise you will practice applying CSS rules to HTML elements.<br><br>
+In this exercise, you will practice building a webpage using the Bootstrap Grid.<br><br>
+
+### Goal
+- Create a two-column food menu for Little Lemon.
 
 ### Objectives
-- Add photo.jpg to the webpage.
-- Add your name as a heading to the webpage.
-- Add an unordered list of your five favorite music artists.
-- Add an ordered list of your top five favorite films.
-- Add a hyperlink to your Facebook profile, or, meta.com.
-- Style the webpage using CSS.
+- Set up the Bootstrap container.
+- Display the Little Lemon logo in the top center of the webpage using Bootstrap.
+- Display the food menu in two columns using Bootstrap Grid.
 
 ### Tips
 
-* Make sure that HTML tags are closed properly.
-* Use a different heading type for your name.
-* Remember the box model.<br><br>
+* Make sure to add your columns to row elements.
+* Remember that Bootstrap uses a 12 column grid system.<br><br>
