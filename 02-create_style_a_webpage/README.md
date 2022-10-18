@@ -10,19 +10,17 @@ In this exercise you will you will practice building your webpage using HTML and
 > - Drag your assessment code files over to the second column. 
 > - Great work! You can now see instructions and code at the same time. 
  <br><br> 
- 
-<br>
 
 ## Task 1: Create the HTML file. 
 
-Objectives
+### Objectives
 - Add  photo.jpg to the webpage.
 - Add your name as a heading to the webpage.
 - Add an unordered list of your five favorite music artists.
 - Add an ordered list of your top five favorite films.
 - Add a hyperlink to your Facebook profile, or, meta.com.
 
-Follow the Step by Step instructions below:
+### Follow the Step by Step instructions below:
 
 1. Open the `index.html` file and set up the following basic HTML document structure:
     ```HTML
