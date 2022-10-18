@@ -16,17 +16,51 @@
 <br>
 In this exercise you will practice applying CSS rules to HTML elements.<br><br>
 
-## Task 1: Style an HTML page using CSS..
-
-Objectives
+### Objectives
 - Define a CSS rule using an element selector.
 - Define a CSS rule using an id selector.
 - Define a CSS rule using a class selector.
 - Define a CSS rule using a descendant selector.
 
-<br>
-
 ### Tips
 
 * If you get stuck, apply the CSS rules one at a time and verify their behaviour is what you expect.
-* Review the lessons *Selecting and Styling*, *Text and color in CSS*, *Different types of selectors*, and *Box Model Introducction*.
+<br><br>
+
+# [02 Create & Style a webpage](https://github.com/Silva-6/Meta-web_dev_intro/tree/main/02-create_style_a_webpage)
+
+<br>
+In this exercise you will practice applying CSS rules to HTML elements.<br><br>
+
+### Objectives
+- Add photo.jpg to the webpage.
+- Add your name as a heading to the webpage.
+- Add an unordered list of your five favorite music artists.
+- Add an ordered list of your top five favorite films.
+- Add a hyperlink to your Facebook profile, or, meta.com.
+- Style the webpage using CSS.
+
+### Tips
+
+* Make sure that HTML tags are closed properly.
+* Use a different heading type for your name.
+* Remember the box model.<br><br>
+
+# [02 Create & Style a webpage](https://github.com/Silva-6/Meta-web_dev_intro/tree/main/02-create_style_a_webpage)
+
+<br>
+In this exercise you will practice applying CSS rules to HTML elements.<br><br>
+
+### Objectives
+- Add photo.jpg to the webpage.
+- Add your name as a heading to the webpage.
+- Add an unordered list of your five favorite music artists.
+- Add an ordered list of your top five favorite films.
+- Add a hyperlink to your Facebook profile, or, meta.com.
+- Style the webpage using CSS.
+
+### Tips
+
+* Make sure that HTML tags are closed properly.
+* Use a different heading type for your name.
+* Remember the box model.<br><br>
