@@ -61,7 +61,6 @@ In this exercise you will you will practice building your webpage using HTML and
 
 10. Add a hyperlink to your Facebook profile page in the last divider element. Alternatively, add a hyperlink to `https://www.meta.com/`. As a last step, add `My Profile` to the descriptive text of the `<a>` tag. 
 
-
 <br>
 
 ## Task 2: Style the webpage using CSS.
@@ -81,19 +80,9 @@ Follow the Step by Step instructions below:
 
 5. Add a CSS rule that applies a `margin` of `4` pixels to the divider elements.
 
-
 <br>
 
-
-
-## Final Step: Let's submit your code!
-Nice work! To complete this assessment:
-- Save your file through File -> Save 
-- Select "Submit Assignment" in your Lab toolbar. 
-
-Your code will be autograded and return feedback shortly on the "Grades" tab.  
-You can also see your score in your Programming Assignment "My Submission" tab.
-<br> <br> 
+## Nice work!
 
 ### Tips
 
