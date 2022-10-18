@@ -46,7 +46,7 @@ In this exercise you will practice applying CSS rules to HTML elements.<br><br>
 * Use a different heading type for your name.
 * Remember the box model.<br><br>
 
-# [03 Create & Style a webpage](https://github.com/Silva-6/Meta-web_dev_intro/tree/main/03-boostrap_grid)
+# [03 Working with Bootstrap grid](https://github.com/Silva-6/Meta-web_dev_intro/tree/main/03-boostrap_grid)
 
 <br>
 In this exercise, you will practice building a webpage using the Bootstrap Grid.<br><br>
@@ -63,3 +63,22 @@ In this exercise, you will practice building a webpage using the Bootstrap Grid.
 
 * Make sure to add your columns to row elements.
 * Remember that Bootstrap uses a 12 column grid system.<br><br>
+
+# [04 Working with Bootstrap components](https://github.com/Silva-6/Meta-web_dev_intro/tree/main/04-boostrap_components)
+
+<br>
+In this exercise, you will practice adding Bootstrap components to a webpage.<br><br>
+
+### Goal
+- Update the Little Lemon website to use Bootstrap Components.
+
+### Objectives
+- Add a Badge component to the page to notify customers of the new falafel dish.
+- Add an Alert component to the page to notify customers that the restaurant will be closed on New Year's Day.
+- Add a Button component to the page with the text Order Online.
+
+### Tips
+
+* Make sure to add your columns to row elements.
+* Remember that Bootstrap uses a 12 column grid system.
+* There are plenty of examples in the Bootstrap documentation.<br><br>
